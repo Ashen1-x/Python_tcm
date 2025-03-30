@@ -34,7 +34,7 @@ print(1/n)
 
 
 
-#Assertion hard error checkign
+#Assertion hard error checking
 
 n = 1
 assert(n != 0)
